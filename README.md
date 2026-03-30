@@ -50,7 +50,7 @@ Modern job discovery platform <br><br>
 
 Agentic AI tutor <br><br>
 • LangGraph architecture
-• multi-LLM routing
+• multi-LLM orchestration
 • 1000+ users
 
 </td>
@@ -76,6 +76,105 @@ Knowledge retrieval engine <br><br>
 • 8500+ documents
 • semantic search
 • chatbot interface
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+## 🧩 Additional Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧬 Breast Cancer Detection
+
+Deep learning system for MRI-based prediction <br><br>
+• DICOM processing pipeline
+• CNN-based modeling
+• clinical evaluation
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📊 Reddit Trend Analyzer
+
+AI-powered trend analysis system <br><br>
+• NLP + topic modeling (LDA)
+• Reddit API integration
+• dashboards & reports
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 GANs for Art
+
+Generative art using GANs <br><br>
+• image synthesis
+• custom generator architecture
+• creative AI exploration
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💊 AI Drug Discovery
+
+ML system for drug analysis <br><br>
+• compound analysis
+• predictive modeling
+• NLP integration
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🏋️ Fitness Tracker
+
+Full-stack fitness tracking app <br><br>
+• user dashboards
+• progress tracking
+• analytics
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏠 Real Estate Platform
+
+Responsive property listing website <br><br>
+• search & filtering
+• UI-focused design
+• React-based frontend
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎫 Ticketing System
+
+Flask-based support system <br><br>
+• ticket assignment automation
+• round-robin logic
+• backend workflows
+
+</td>
+
+<td width="50%" valign="top">
+
+<!-- empty cell to keep grid symmetry -->
 
 </td>
 </tr>
