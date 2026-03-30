@@ -1,152 +1,185 @@
 <h1 align="center">Riya Bansal</h1>
+
 <p align="center">
-  Data Scientist • Generative AI • AI Systems
+  <b>Data Scientist • Generative AI • Agentic Systems</b>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/riya-bansal-366a5b20b/">LinkedIn</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
+  &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="mailto:workwithriyab@gmail.com">Email</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
+  &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://github.com/Ri-yaB">GitHub</a>
 </p>
 
-<br><br>
+<p align="center">
+  <img src="https://img.shields.io/badge/GenAI-Systems-black"/>
+  <img src="https://img.shields.io/badge/Focus-Production-blue"/>
+  <img src="https://img.shields.io/badge/Scale-1000%2B%20Users-green"/>
+</p>
 
-## Building AI systems that go beyond prototypes
+<br>
 
-I design and deploy **production-grade AI systems** combining large language models, retrieval pipelines, and scalable backend engineering.
+## 🚀 Building AI systems that ship
 
-Currently at **Analytics Vidhya**, working on real-world GenAI systems used by 1000+ users.
+I design and deploy **production-grade AI systems** combining LLMs, retrieval pipelines, and scalable backend engineering.
+Currently at **Analytics Vidhya**, building systems used by 1000+ users.
 
-<br><br>
+<br>
 
-## Featured Work
+---
 
-**Placify — Job Discovery Platform**
-A platform focused on improving hiring outcomes through direct access.
-• 100+ curated opportunities daily
-• direct recruiter access (no application black-box)
+## ✨ Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🟣 Placify
+
+Modern job discovery platform <br><br>
+• 100+ curated roles daily
+• direct recruiter access
 • AI-powered outreach (in progress)
 
-<br>
+</td>
 
-**Mentornaut — Agentic AI Tutor**
-• LangGraph-based multi-agent system
-• multi-LLM routing with guardrails
-• deployed for 1000+ learners
+<td width="50%" valign="top">
 
-<br>
+### 🤖 Mentornaut
 
-**AutoGrader — LLM Evaluation System**
-• reduced manual grading effort by 30x
-• ~92% grading accuracy
-• scalable evaluation pipeline
+Agentic AI tutor <br><br>
+• LangGraph architecture
+• multi-LLM routing
+• 1000+ users
 
-<br>
+</td>
+</tr>
 
-**RAG Knowledge System**
-• built over 8500+ documents
-• semantic retrieval + LLM synthesis
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ AutoGrader
+
+LLM evaluation system <br><br>
+• 30x efficiency boost
+• ~92% accuracy
+• scalable pipeline
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔍 RAG System
+
+Knowledge retrieval engine <br><br>
+• 8500+ documents
+• semantic search
 • chatbot interface
 
+</td>
+</tr>
+</table>
+
 <br>
 
-**Breast Cancer Detection (Deep Learning)**
-• MRI-based recurrence prediction
-• CNN modeling + DICOM pipeline
-• clinical evaluation framework
+---
 
-<br><br>
+## 🧠 Experience
 
-## Experience
+<table>
+<tr><td>
 
 **Analytics Vidhya**
-Data Science Trainee · Jul 2025 — Present
-Gen AI Intern · Feb 2025 — Jul 2025
+Data Science Trainee · 2025 — Present
+Gen AI Intern · 2025 <br>
+→ Building production GenAI systems
 
-Building production-grade Generative AI systems with focus on reliability, latency, and real-world usage.
+</td></tr>
 
-<br>
+<tr><td>
 
 **LEO Club International**
-Core Committee Member · Mar 2022 — Feb 2025
+Core Committee · 2022 — 2025
+
+</td></tr>
+
+<tr><td>
+
+**SocialLEADS · ElectricPe · Peak And Find**
+Web Development Roles · 2023 — 2024
+
+</td></tr>
+
+<tr><td>
+
+**VITMAS (Vice Chair)**
+Leadership · 2022 — 2023
+
+</td></tr>
+
+<tr><td>
+
+**Early Career**
+UI Design · SME · Content Development
+
+</td></tr>
+</table>
 
 <br>
 
-**SocialLEADS**
-Web Developer Intern · Jun 2024 — Aug 2024
+---
 
-<br>
+## ⚙️ Tech Stack
 
-**ElectricPe**
-Web Development Intern · Dec 2023 — Mar 2024
+<table>
+<tr>
+<td width="50%">
 
-<br>
+**AI / ML**
+PyTorch · TensorFlow · scikit-learn · XGBoost
 
-**Peak And Find**
-WordPress Developer · Nov 2023 — Dec 2023
+</td>
 
-<br>
-
-**VITMAS**
-Vice Chair · Mar 2023 — Dec 2023
-Core Committee Member · Mar 2022 — Mar 2023
-
-<br>
-
-**Global Scouts & Guides Organisation**
-Senior WordPress Developer · Aug 2023 — Oct 2023
-
-<br>
-
-**Click Mecha**
-Web Developer Associate · Aug 2023 — Sep 2023
-
-<br>
-
-**FLeverage**
-UI Designer Intern · Dec 2022 — Mar 2023
-
-<br>
-
-**Servon Solution LLP**
-Subject Matter Expert · Oct 2021 — Dec 2021
-
-<br>
-
-**Silverlabs India Pvt. Ltd.**
-Content Developer · Aug 2021 — Sep 2021
-
-<br><br>
-
-## Technical Skills
-
-**Languages**
-Python · SQL
-
-**Machine Learning**
-PyTorch · TensorFlow · scikit-learn · XGBoost · LightGBM
+<td width="50%">
 
 **Generative AI**
-LangChain · LangGraph · RAG · Prompt Engineering
-OpenAI · Claude · Hugging Face
+LangChain · LangGraph · RAG
+OpenAI · Claude
 
-**Infrastructure**
-Docker · PostgreSQL · GCP
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+**Backend & Infra**
+Python · SQL · Docker
+PostgreSQL · GCP
+
+</td>
+
+<td width="50%">
 
 **Frameworks**
 Django · FastAPI · Flask
 
-<br><br>
+</td>
+</tr>
+</table>
 
-## Contact
+<br>
 
-[workwithriyab@gmail.com](mailto:workwithriyab@gmail.com)
-linkedin.com/in/riya-bansal-366a5b20b
+---
 
-<br><br>
+## 🎯 Approach
+
+→ systems over scripts
+→ clarity over complexity
+→ impact over experimentation
+
+<br>
 
 <p align="center">
-  <sub>Explore my repositories below</sub>
+  <i>Explore my repositories below</i>
 </p>
